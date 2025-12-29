@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iWriter - Personal Hugo Blog Theme</title>
+    <link>//localhost:1313/french/</link>
+    <description>Recent content on iWriter - Personal Hugo Blog Theme</description>
+    <generator>Hugo</generator>
+    <language>uk-ua</language>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/french/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search Result</title>
+      <link>//localhost:1313/french/search/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/french/search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>À propos</title>
+      <link>//localhost:1313/french/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/french/about/</guid>
+      <description>&lt;h2 id=&#34;bonjour-je-suis-linda-mccoy-spécialisée-dans-la-rédaction-et-la-collecte-de-blogs&#34;&gt;Bonjour, je suis Linda McCoy spécialisée dans la rédaction et la collecte de blogs&lt;/h2&gt;&#xA;&lt;p&gt;Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level&#xA;overviews. Iterative approaches to corporate strategy foster collaborative thinking to&#xA;further the overall value proposition. Organically grow the holistic world view of&#xA;disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/french/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/french/contact/</guid>
+      <description>&lt;h1 id=&#34;contactez-moi&#34;&gt;Contactez moi&lt;/h1&gt;&#xA;&lt;p&gt;Menso est livré avec un formulaire de contact intégré, que vous pouvez utiliser avec le service Formspree pour gérer gratuitement jusqu&amp;rsquo;à 50 soumissions par mois. Vous pouvez également facilement passer à un autre service de formulaire de contact si vous le souhaitez.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Element</title>
+      <link>//localhost:1313/french/element/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/french/element/</guid>
+      <description>&lt;h1 id=&#34;éléments&#34;&gt;Éléments&lt;/h1&gt;&#xA;&lt;p&gt;A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly&#xA;disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar&#xA;catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform&#xA;models. Continually reintermediate integrated processes through technically sound intellectual capital.&#xA;Holistically foster superior methodologies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
