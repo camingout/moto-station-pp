@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://moto-station.pp.ua/sitemap.xml
