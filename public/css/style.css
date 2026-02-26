@@ -18565,6 +18565,9 @@ body.dark .only-dark {
 .dark .widget button {
   color: #fdfdfd; }
 
+.dark .search svg, .dark .select-language {
+  color: #ccc; }
+
 .img {
   max-width: 100%;
   height: auto; }
